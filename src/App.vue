@@ -1,5 +1,5 @@
 <script setup>
-import Listado from './components/listado.vue'
+import Listado from './components/Listado.vue'
 </script>
 
 <template>
