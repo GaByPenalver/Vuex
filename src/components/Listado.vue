@@ -69,6 +69,10 @@
     color: aqua;
   }
   button {
-    margin-left: 18px
+  margin-left: 20px;
+  text-align: center;
+  font-size: 20px;
+  height: 20px;
+  border-radius: 4px; 
   }
   </style>
